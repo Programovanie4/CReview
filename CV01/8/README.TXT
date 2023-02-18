@@ -1,0 +1,5 @@
+v Sedemcifernom ste si vsimli toto ?
+Poznámka: úlohu možete riešiť "matematicky", buďto na papieri najdete správne riešenie a potom logicky váš kód bude vyzerať napr. return 9213467, alebo dokážete, že neexistuje, potom return -1; V oboch prípadoch, vaša úvaha musí byť súčasťou odovzdaného riešenie. Fotografie papieru neakceptujeme, nájdite si akýkoľvek editor, v ktorom vaše úvahy viete vyjadriť, a priložte README.TXT/PDF k vášmu riešeniu. V prípade, že nepotrebujete žiadne matematické symboly, aj jednoduchý komentár v kóde postačí. V opačnom prípade, vaše hoc aj správne riešenie, nebude hodnotené, lebo mu chýba zdôvodnenie. Túto informáciu sa dozviete o.i. aj na cvičení, a fakt, že ste tam neboli, je falošná výhovorka.
+
+Readme nevidim, ani komentar, python je iny rocnik/semester, bez ohladu na to, ze ten kod je priserny.
+takze vam chyba zdovodnenie, tuto ulohu nemate bodovanu, aj ked presla testom.
