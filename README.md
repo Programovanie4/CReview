@@ -1,2 +1,1 @@
-# študentské riešenia hodné komentovania pri code review, neuvádzať identitu študenta
-# formát <zostava>/1,2,3,...
+# študentské riešenia hodné komentovania pri code review
