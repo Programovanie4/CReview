@@ -1,0 +1,1 @@
+Velka duplicita medzi tvoma metodami, spolocnu cast treba vytiahnut do pomocnej metody.

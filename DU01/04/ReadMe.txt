@@ -1,0 +1,1 @@
+ChatGPT permutacie prilepene ku zvysku kodu. Prva polovica metody rata ciferny faktor, druha hlada permutacie. To su dve samostatne veci a prva polovica mala byt v samostatnej pomocnej metode. Vyhybame sa dlhym metodam, ktore robia rozne veci, znizuje to citatelnost.

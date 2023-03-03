@@ -1,0 +1,1 @@
+String namiesto StringBuilder/Buffer, riesenie neprejde cez timeout.
