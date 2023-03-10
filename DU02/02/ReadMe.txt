@@ -1,0 +1,1 @@
+Duplicity medzi blokmi kodu od riadkov 31 a 134, podobne medzi od 86 a 188. Duplicitny kod treba vytahovat do pomocnych metod.
