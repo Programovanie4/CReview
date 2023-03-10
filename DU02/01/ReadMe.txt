@@ -1,1 +1,1 @@
-V Zatvorky1-Zatvorky4 vidno vela duplicit medzi dvoma metodami, tento problem malo velmi vela z vas. Plus v Zatvorky3 su zbytocne if else s jednym returnom. V takych pripadoch sa da logika otocit a vyhnut sa else vetve, v prvom ife som to upravil na ukazku. 
+V Zatvorky1-Zatvorky4 vidno vela duplicit medzi dvoma metodami, tento problem malo velmi vela z vas. Plus v Zatvorky3 su zbytocne if else s jednym returnom. V takych pripadoch sa da logika otocit a vyhnut sa else vetve, v prvom ife som to upravil na ukazku. ZatvorkyNICE su ukazka, ako to mohlo vyzerat.
